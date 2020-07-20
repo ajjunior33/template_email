@@ -11,8 +11,8 @@ app.get("/send", async (req, res) => {
 
     mailer.sendMail(
       {
-        to: "ajjunior33@gmail.com",
-        from: "ajjunior33@gmail.com",
+        to: "email@emai.com",
+        from: "email@emai.com",
         template: "index",
         context: { token },
       },
