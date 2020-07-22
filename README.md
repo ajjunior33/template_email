@@ -14,12 +14,10 @@ Para configurar o projeto, basta você criar um arquivo chamado *src/config/mail
 ```
 
 utilizei o [MailTrap](https://mailtrap.io/) para testes, funcionou muito bem. Basta você colocar o smtp de sua preferência.
-<center>
+<div style="text-align: center"> 
+  <img src="https://i.ibb.co/LQwz9WG/LOGOMARCA.png" width="50">
 
-<img src="https://i.ibb.co/LQwz9WG/LOGOMARCA.png" width="50">
+  **White Code**
 
-**White Code**
-
-*André Souza*
-
-</center>
+  *André Souza
+</div>
