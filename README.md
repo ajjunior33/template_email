@@ -18,6 +18,7 @@ utilizei o [MailTrap](https://mailtrap.io/) para testes, funcionou muito bem. Ba
 
 </div>
 
-Faça uma doação | Centralizado | Alinhado a direita
+Faça uma doação | White Code | Desenvolvedor 
 :--------- | :------: | -------:
- <img src="https://i.ibb.co/nwjKhhV/QR-Code.png" alt="QR-Code" border="0" width="50"> |   <img src="https://i.ibb.co/LQwz9WG/LOGOMARCA.png" width="50"> | **White Code**  André Souza 
+ <img src="https://i.ibb.co/nwjKhhV/QR-Code.png" alt="QR-Code" border="0" width="50"> |   <img src="https://i.ibb.co/LQwz9WG/LOGOMARCA.png" width="50"> | **White Code**  
+ André Souza 
