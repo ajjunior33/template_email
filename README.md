@@ -16,6 +16,13 @@ Para configurar o projeto, basta você criar um arquivo chamado *src/config/mail
 utilizei o [MailTrap](https://mailtrap.io/) para testes, funcionou muito bem. Basta você colocar o smtp de sua preferência.
 <div style="text-align: center"> 
 
+### Instale as seguintes dependencias
+crypto
+express
+nodemailer
+nodemailer-express-handlebars
+
+
 </div>
 
 Faça uma doação | White Code | Desenvolvedor 
